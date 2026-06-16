@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated reports
+scan_reports/
+
+# Build files
+build/
+dist/
+
+# PyInstaller
+*.spec
+
+# IDE
+.vscode/
+
+# Logs
+*.log

@@ -1,0 +1,6 @@
+{
+    "trusted_programs": [
+        "notepad.exe",
+        "chrome.exe"
+    ]
+}

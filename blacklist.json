@@ -1,0 +1,6 @@
+{
+    "blocked_programs": [
+        "suspicious.exe",
+        "keylogger.exe"
+    ]
+}
